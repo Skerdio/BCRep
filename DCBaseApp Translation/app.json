@@ -1,0 +1,21 @@
+{
+  "id": "4e16fb74-60c5-4ff1-a5ff-c4c0b49ddc80",
+  "name": "DCBaseApp Translation",
+  "publisher": "3i Solutions",
+  "version": "1.0.0.5",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "17.0.0.0",
+  "contextSensitiveHelpUrl": "https://DCBaseAppTranslation.com/help/",
+  "showMyCode": false,
+  "runtime": "6.0",
+  "features": ["TranslationFile"]
+}
