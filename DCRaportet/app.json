@@ -1,0 +1,34 @@
+{
+  "id": "5efd7aca-0336-45ee-bc8d-217d37402a03",
+  "name": "DCRaportet",
+  "publisher": "3i Solutions",
+  "version": "1.0.0.41",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "d95b3152-180e-4d0c-9d5a-6143da76b8aa",
+      "name": "Fiskalizimi",
+      "publisher": "3i Solutions",
+      "version": "1.0.0.123"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "17.0.0.0",
+  "idRanges": [
+    {
+      "from": 50008,
+      "to": 50021
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://DCRaportet.com/help/",
+  "showMyCode": false,
+  "runtime": "6.0",
+  "features": ["TranslationFile"]
+}
