@@ -1,0 +1,27 @@
+{
+  "id": "8a2e66ac-5055-47b6-ae84-e99db8272749",
+  "name": "HR Payroll Management",
+  "publisher": "3i Solutions",
+  "version": "1.0.0.8",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "17.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50014
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://HRPayrollManagaement.com/help/",
+  "showMyCode": false,
+  "runtime": "6.0",
+  "features": ["TranslationFile"]
+}
