@@ -1,0 +1,27 @@
+{
+  "id": "0b6de785-d7dd-485b-b799-cad45a7f0696",
+  "name": "DCEmployeeExts",
+  "publisher": "3i Solutions",
+  "version": "1.0.0.15",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "17.0.0.0",
+  "idRanges": [
+    {
+      "from": 50150,
+      "to": 50169
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://DCEmployeeExts.com/help/",
+  "showMyCode": false,
+  "runtime": "6.0",
+  "features": ["TranslationFile"]
+}

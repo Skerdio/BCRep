@@ -1,0 +1,249 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="DCImportPayroll">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 1546804204 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import Payroll Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Import Payroll - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1546804204 - Field 1622979514 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Account No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Import Payroll - Field Account No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1546804204 - Field 3699788827 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Account Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Import Payroll - Field Account Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1546804204 - Field 1891586249 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bal. Account No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Import Payroll - Field Bal. Account No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1546804204 - Field 824028820 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bal. Account Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Import Payroll - Field Bal. Account Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1546804204 - Field 1773188647 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Celesi</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Import Payroll - Field Celesi - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3092366968 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ImportPayrollLog</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ImportPayrollLog - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3092366968 - Field 1964419135 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Employee No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ImportPayrollLog - Field Employee No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3092366968 - Field 3305973151 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry DateTime</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ImportPayrollLog - Field Entry DateTime - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3092366968 - Field 268735261 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EntryNo.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ImportPayrollLog - Field EntryNo. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3092366968 - Field 3411902486 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Excel Row No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ImportPayrollLog - Field Excel Row No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3092366968 - Field 116763731 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>KolonaA</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ImportPayrollLog - Field KolonaA - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3092366968 - Field 2029853582 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>KolonaB</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ImportPayrollLog - Field KolonaB - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3092366968 - Field 1392156965 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>KolonaC</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ImportPayrollLog - Field KolonaC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3092366968 - Field 2498641176 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>KolonaD</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ImportPayrollLog - Field KolonaD - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3092366968 - Field 1821279055 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Text</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ImportPayrollLog - Field Text - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3353046956 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payroll Import Buffer</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PayrollImportBuffer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3353046956 - Field 1964419135 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Employee No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PayrollImportBuffer - Field Employee No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3353046956 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PayrollImportBuffer - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3353046956 - Field 3411902486 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Excel Row No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PayrollImportBuffer - Field Excel Row No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3353046956 - Field 281352744 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Imported</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PayrollImportBuffer - Field Imported - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3353046956 - Field 116763731 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>KolonaA</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PayrollImportBuffer - Field KolonaA - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3353046956 - Field 2029853582 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>KolonaB</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PayrollImportBuffer - Field KolonaB - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3353046956 - Field 1392156965 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>KolonaC</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PayrollImportBuffer - Field KolonaC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3353046956 - Field 2498641176 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>KolonaD</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PayrollImportBuffer - Field KolonaD - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3353046956 - Field 271887310 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>With Error</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PayrollImportBuffer - Field With Error - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1546804204 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import Payroll Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Import Payroll - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1546804204 - Control 1622979514 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Account No. field</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Import Payroll - Control Account No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1546804204 - Control 3699788827 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Account Type field</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Import Payroll - Control Account Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1546804204 - Control 1891586249 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Bal. Account No. field</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Import Payroll - Control Bal. Account No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1546804204 - Control 824028820 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Bal. Account Type field</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Import Payroll - Control Bal. Account Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1546804204 - Control 1773188647 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Celesi field</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Import Payroll - Control Celesi - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1546804204 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import Payroll</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Import Payroll - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1546804204 - NamedType 542409505" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Employee %1 not found!</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Import Payroll - NamedType EmployErr</note>
+        </trans-unit>
+        <trans-unit id="Report 1546804204 - NamedType 3865442186" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import (%1)|%1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Import Payroll - NamedType FileDialogTxt</note>
+        </trans-unit>
+        <trans-unit id="Report 1546804204 - NamedType 2928972280" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Please choose proper file</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Import Payroll - NamedType FileNameErr</note>
+        </trans-unit>
+        <trans-unit id="Report 1546804204 - NamedType 1413022793" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import done!</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Import Payroll - NamedType ImportFinished</note>
+        </trans-unit>
+        <trans-unit id="Report 1546804204 - NamedType 3777830815" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import Excel File</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Import Payroll - NamedType ImportTxt</note>
+        </trans-unit>
+        <trans-unit id="Report 1546804204 - NamedType 2932411483" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Please fill Posting Date!</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Import Payroll - NamedType PostingDateErr</note>
+        </trans-unit>
+        <trans-unit id="Report 1546804204 - Control 2738103555 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Import Payroll - Control DocNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1546804204 - Control 804481195 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Choose File</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Import Payroll - Control File Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1546804204 - Control 4104898276 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Choose Sheet Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Import Payroll - Control SheetName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1546804204 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Option</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Import Payroll - Control Options - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1546804204 - Control 2725804901 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Import Payroll - Control gPostingDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 607194595 - Field 2455209585 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 520017643">
+          <source>Employee Col Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension HumanResourcesSetup - Field Employee Col Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 607194595 - Field 3660179873 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 520017643">
+          <source>Payroll Journal Batch Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension HumanResourcesSetup - Field Payroll Journal Batch Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 607194595 - Field 4129075053 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 520017643">
+          <source>Payroll Journal Template Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension HumanResourcesSetup - Field Payroll Journal Template Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 607194595 - Field 3612842087 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 520017643">
+          <source>Starting Row No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension HumanResourcesSetup - Field Starting Row No. - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

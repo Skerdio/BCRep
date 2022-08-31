@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-CA" original="DcDimensionAllocation">
+    <body>
+      <group id="body">
+        <trans-unit id="Page 169146225 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dimension ValuesDc</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DimensionValuesDC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 169146225 - Control 3004954119 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the code for the dimension value.</source>
+          <target>Specifikon kodin për vlerën e dimensionit</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DimensionValuesDC - Control Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 169146225 - Control 2961552353 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies a descriptive name for the dimension value.</source>
+          <target>Përshkruan vlerën e dimensionit</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DimensionValuesDC - Control Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1444659716 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dimension Select</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report DimensionSelect - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1444659716 - Control 881177948 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Choose Dimension</source>
+          <target>Zgjidh dimensionin</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report DimensionSelect - Control Dimension - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 372648638 - Control 1911512626 - Method 2126772001 - NamedType 2251642015" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 372648638">
+          <source>You must specify only One %1 as %2</source>
+          <target>Duhet të specifikosh vetëm një %1 si %2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DimensionValuesExts - Control toAllocate - Method OnValidate - NamedType lError01</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3152074765 - Action 3732224266 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 896930563">
+          <source>Split Dimension Cost</source>
+          <target>Shpërnda kostot e dimensioneve</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PurchInvoiceSubExts - Action Test - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 372648638 - Field 1911512626 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1468132285">
+          <source>toAllocate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DimensionValuesExts - Field toAllocate - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

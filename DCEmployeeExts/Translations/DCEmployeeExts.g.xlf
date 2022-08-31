@@ -1,0 +1,264 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="DCEmployeeExts">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 2774665298 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Employee Job Titles</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EmployeeJobTitles - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2774665298 - Field 714791889 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>City</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EmployeeJobTitles - Field City - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2774665298 - Field 453093234 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Clasifications Category</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EmployeeJobTitles - Field Clasifications - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2774665298 - Field 3133801257 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Company</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EmployeeJobTitles - Field Company - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2774665298 - Field 791614854 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Education</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EmployeeJobTitles - Field Education - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2774665298 - Field 965007031 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EmployeeNo.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EmployeeJobTitles - Field EmployeeNo. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2774665298 - Field 3592094765 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EndingDate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EmployeeJobTitles - Field EndingDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2774665298 - Field 268735261 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EntryNo</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EmployeeJobTitles - Field EntryNo. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2774665298 - Field 1721661729 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>JobTitle</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EmployeeJobTitles - Field JobTitle - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2774665298 - Field 1789400218 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Level</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EmployeeJobTitles - Field Level - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2774665298 - Field 1665138118 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Qualifications Category</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EmployeeJobTitles - Field Qualifications - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2774665298 - Field 543275552 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>StartingDate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EmployeeJobTitles - Field StartingDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2774665298 - Field 1804290824 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Years</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EmployeeJobTitles - Field Years of Work - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4181304730 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warnings</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MasatDisiplinore - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4181304730 - Field 2790486453 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Comment</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MasatDisiplinore - Field Comment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4181304730 - Field 1447994436 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MasatDisiplinore - Field Data - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4181304730 - Field 965007031 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EmployeeNo.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MasatDisiplinore - Field EmployeeNo. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4181304730 - Field 268735261 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EntryNo</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MasatDisiplinore - Field EntryNo. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4181304730 - Field 3955473374 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warning</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MasatDisiplinore - Field Warning - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3955473374 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warning</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Warning - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3955473374 - Field 4195348875 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warnings</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Warning - Field Warnings - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2398731559 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Employee Job Title</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EmployeeJobTitle - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2398731559 - Control 714791889 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the City field</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EmployeeJobTitle - Control City - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2398731559 - Control 2805198602 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Clasifications Category field</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EmployeeJobTitle - Control Clasifications Category - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2398731559 - Control 3133801257 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Company field</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EmployeeJobTitle - Control Company - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2398731559 - Control 791614854 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Education field</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EmployeeJobTitle - Control Education - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2398731559 - Control 965007031 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the EmployeeNo. field</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EmployeeJobTitle - Control EmployeeNo. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2398731559 - Control 3592094765 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the EndingDate field</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EmployeeJobTitle - Control EndingDate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2398731559 - Control 1721661729 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the JobTitle field</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EmployeeJobTitle - Control JobTitle - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2398731559 - Control 1789400218 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Level field</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EmployeeJobTitle - Control Level - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2398731559 - Control 1279674142 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Qualifications Category field</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EmployeeJobTitle - Control Qualifications Category - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2398731559 - Control 543275552 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Starting Date field</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EmployeeJobTitle - Control StartingDate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2398731559 - Control 1804290824 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Years of Work field</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EmployeeJobTitle - Control Years of Work - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3783883502 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warnings Page</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Masa Disiplinore - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3783883502 - Control 2790486453 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Comment field</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Masa Disiplinore - Control Comment - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3783883502 - Control 3192175264 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Date field</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Masa Disiplinore - Control Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3783883502 - Control 965007031 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the EmployeeNo. field</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Masa Disiplinore - Control EmployeeNo. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3783883502 - Control 3955473374 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Warning field</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Masa Disiplinore - Control Warning - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3955473374 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warning</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Warning - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3955473374 - Control 4195348875 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Warnings field</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Warning - Control Warnings - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1418805792 - Action 3269974079 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 866835530">
+          <source>Employee Job Title</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension EmployeeCardExts - Action Employee Job Title - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1418805792 - Action 3955473374 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 866835530">
+          <source>Warning</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension EmployeeCardExts - Action Warning - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3152424536 - Field 879408970 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1087039522">
+          <source>Gross Salary</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Confidential Information Exts - Field Gross Salary - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3310069548 - Field 2663389888 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1498446062">
+          <source>Disability to Work</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension EmployeeExts - Field Disability - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3310069548 - Field 3929420742 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1498446062">
+          <source>Marital Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension EmployeeExts - Field MaritalStatus - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3310069548 - Field 3929420742 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1498446062">
+          <source> ,Blank,Single,Married,Divorced,Widow</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension EmployeeExts - Field MaritalStatus - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3310069548 - Field 1804290824 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1498446062">
+          <source>Years of Work</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension EmployeeExts - Field Years of Work - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3310069548 - Change 3168444338 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1498446062">
+          <source>BirthPlace</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension EmployeeExts - Change Address - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3310069548 - Change 2306852000 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1498446062">
+          <source>Address</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension EmployeeExts - Change Address 2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3310069548 - Change 1064199390 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1498446062">
+          <source>Father`s Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension EmployeeExts - Change Middle Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1832340496 - Field 61567094 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 337631938">
+          <source>Edit Confidential Information</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension UserSetupExts - Field Edit Confidential Information - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

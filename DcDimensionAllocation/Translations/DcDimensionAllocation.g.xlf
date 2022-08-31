@@ -1,0 +1,224 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="DcDimensionAllocation">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 2679620385 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dimension Allocation Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Dimension Allocation Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2679620385 - Field 2623957639 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dimension Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Dimension Allocation Setup - Field Dimension Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2679620385 - Field 419766692 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dimension ToAllocate From</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Dimension Allocation Setup - Field Dimension ToAllocate From - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2679620385 - Field 4039204855 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dimension ToAllocate To</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Dimension Allocation Setup - Field Dimension ToAllocate To - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2679620385 - Field 3950257267 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>From Dimension Name </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Dimension Allocation Setup - Field From Dimension Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2679620385 - Field 3557664220 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Percentage</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Dimension Allocation Setup - Field Percentage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2679620385 - Field 2473472488 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>To Dimension Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Dimension Allocation Setup - Field To Dimension Name  - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2679620385 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dimension Allocation Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Dimension Allocation Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2679620385 - Control 419766692 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Dimension ToAllocate From field</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Dimension Allocation Setup - Control Dimension ToAllocate From - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2679620385 - Control 4039204855 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Dimension ToAllocate To field</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Dimension Allocation Setup - Control Dimension ToAllocate To - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2679620385 - Control 3950257267 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the From Dimension Name field</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Dimension Allocation Setup - Control From Dimension Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2679620385 - Control 3557664220 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Percentage field</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Dimension Allocation Setup - Control Percentage - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2679620385 - Control 1946946464 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the ToDimension Name field</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Dimension Allocation Setup - Control To Dimension Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3273347984 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dimension Allocation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Dimension Allocation G/L - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3273347984 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Do you want to post allocated entries?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Dimension Allocation G/L - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Report 3273347984 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dimension Allocation entries are created successfully.\Do you want to open %1?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Dimension Allocation G/L - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Report 3273347984 - Control 567396816 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Split dimensions allocation equally</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Dimension Allocation G/L - Control Allocate Equally - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3273347984 - Control 3795808207 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Choose Dimensions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Dimension Allocation G/L - Control DimensionCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3273347984 - Control 4196906433 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Post</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Dimension Allocation G/L - Control gPost - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 303113908 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dimension Allocation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report DimensionAllocation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 303113908 - Control 567396816 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Split dimensions allocation equally</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report DimensionAllocation - Control Allocate Equally - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 303113908 - Control 881177948 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Choose Dimension</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report DimensionAllocation - Control Dimension - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3801559373 - Action 480438459 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1887905131">
+          <source>Split Dimension Cost</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension General Ledger Entries Exts - Action Split Dimension Cost - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 997800146 - Action 2679620385 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4050813720">
+          <source>Dimension  Allocation Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension General Ledger Setup Exts - Action Dimension Allocation Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2811733644 - Control 531706779 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4219821699">
+          <source>Specifies the value of the Acc. to Allocate field</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GL Account Exts - Control Acc. to Allocate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3158275531 - Action 452802881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1521900543">
+          <source>Split Dimension Cost</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Purch Credit Memo Exts - Action Split Dimension Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3158275531 - Action 452802881 - Method 1377591017 - NamedType 3896992039" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 3158275531">
+          <source>You must allocate dimensions only for %1 G/L Account.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Purch Credit Memo Exts - Action Split Dimension Code - Method OnAction - NamedType lError1</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3158275531 - Action 452802881 - Method 1377591017 - NamedType 1515114594" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 3158275531">
+          <source>Nothing to allocate.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Purch Credit Memo Exts - Action Split Dimension Code - Method OnAction - NamedType lError2</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3158275531 - Action 452802881 - Method 1377591017 - NamedType 877417977" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 3158275531">
+          <source>You must select %1 to allocate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Purch Credit Memo Exts - Action Split Dimension Code - Method OnAction - NamedType lError3</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3152074765 - Action 452802881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 896930563">
+          <source>Split Dimension Cost</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PurchInvoiceSubExts - Action Split Dimension Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3152074765 - Action 452802881 - Method 1377591017 - NamedType 3896992039" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 3152074765">
+          <source>You must allocate dimensions only for %1 G/L Account.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PurchInvoiceSubExts - Action Split Dimension Code - Method OnAction - NamedType lError1</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3152074765 - Action 452802881 - Method 1377591017 - NamedType 1515114594" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 3152074765">
+          <source>Nothing to allocate.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PurchInvoiceSubExts - Action Split Dimension Code - Method OnAction - NamedType lError2</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3152074765 - Action 452802881 - Method 1377591017 - NamedType 877417977" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 3152074765">
+          <source>You must select %1 to allocate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PurchInvoiceSubExts - Action Split Dimension Code - Method OnAction - NamedType lError3</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 372648638 - Field 1911512626 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1468132285">
+          <source>toAllocate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DimensionValuesExts - Field toAllocate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 372648638 - Field 1911512626 - Method 2126772001 - NamedType 2251642015" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 372648638">
+          <source>You must specify only One %1 as %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DimensionValuesExts - Field toAllocate - Method OnValidate - NamedType lError01</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4272703166 - Field 347538803 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2825951060">
+          <source>Allocated Dimension</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension G/L Entry Exts - Field Allocated Dimension - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4272703166 - Field 3603341927 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2825951060">
+          <source>Dimension allocator</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension G/L Entry Exts - Field Dimension allocator - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1129227001 - Field 3472379463 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1806786327">
+          <source>Dimension Allocator</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Gen. Journal Line Exts - Field Dimension Allocator - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1129227001 - Field 3627141058 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1806786327">
+          <source>Source Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Gen. Journal Line Exts - Field Source Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 997800146 - Field 3702073209 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4050813720">
+          <source>Dimension Allocation Journal Batch Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension General Ledger Setup Exts - Field Dim. Alloc. Journal Batch Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 997800146 - Field 2515138107 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4050813720">
+          <source>Dimension Allocation Journal Template Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension General Ledger Setup Exts - Field Dim. Alloc. Journal Temp. Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 997800146 - Field 3923912773 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4050813720">
+          <source>Dimension Code To Allocate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension General Ledger Setup Exts - Field Dimension Code To Allocate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2811733644 - Field 531706779 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4274826855">
+          <source>Acc. to Allocate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension GL Account Exts - Field Acc. to Allocate - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

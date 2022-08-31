@@ -1,0 +1,26 @@
+{
+  "id": "b3e7bb8d-3ea4-4151-805f-ad5891dc71d2",
+  "name": "DcDimensionAllocation",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "runtime": "6.0",
+  "showMyCode": false,
+  "target": "Cloud",
+  "platform": "17.0.19353.19730",
+  "contextSensitiveHelpUrl": "https://DcDimensionAllocation.com/help/",
+  "dependencies": [
+    {
+      "id": "c1335042-3002-4257-bf8a-75c898ccb1b8",
+      "name": "Application",
+      "version": "17.0.0.0",
+      "publisher": "Microsoft"
+    }],
+  "idRanges": [
+    {
+      "from": 50170,
+      "to": 50179
+    }
+  ], 
+  
+  "features": ["TranslationFile"]
+}
