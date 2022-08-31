@@ -1,0 +1,27 @@
+{
+  "id": "dd6bab7b-8001-4729-b5d0-e4fc62979117",
+  "name": "DCEditPages",
+  "publisher": "3i Solutions",
+  "version": "1.0.0.3",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "17.0.0.0",
+  "idRanges": [
+    {
+      "from": 50071,
+      "to": 50229
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://DCEditPages.com/help/",
+  "showMyCode": false,
+  "runtime": "6.0",
+  "features": ["TranslationFile"]
+}

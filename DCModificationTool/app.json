@@ -1,0 +1,27 @@
+{
+  "id": "80a08002-f861-41f5-a90b-5b61d62183b6",
+  "name": "DCModificationTool",
+  "publisher": "3i Solutions",
+  "version": "1.0.0.1",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "17.0.0.0",
+  "idRanges": [
+    {
+      "from": 50006,
+      "to": 50060
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://DCModificationTool.com/help/",
+  "showMyCode": true,
+  "runtime": "6.0"
+}
+ 

@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="DCEditPages">
+    <body>
+      <group id="body">
+        <trans-unit id="Page 3610674592 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Edit Bank Account Ledger Entry</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Edit Bank Acc. Ledger Entry - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3396087081 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Edit Customer Ledger Entries</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Edit Customer Ledger Entries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 336524554 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Edit Detailed Custom Ledger Entries</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Edit Det. Cust.Ledg. Entries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2171883576 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Edit Detailed Vendor Ledger Entries</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Edit Detailed Vend.Ledg.Entr. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 640838230 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Edit FA Ledger Entry</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Edit FA Ledger Entry - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2762787703 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Edit General Ledger Entries</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Edit General Ledger Entries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2809324644 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Edit Item Ledger Entry</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Edit Item Ledger Entry - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2303227076 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Edit Posted Inv. Subform</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Edit Posted Inv. Subform - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2364253854 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Edit Posted Purch Cr Memo</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Edit Posted Purch Cr Memo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3795449841 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Edit Posted Purchase Invoice</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Edit Posted Purchase Invocie - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2171139070 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Edit Posted Purchase Receipt</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Edit Posted Purchase Receipt  - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4182453359 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Edit Posted Sales Credit Memo Subfrom</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Edit Posted Sales Cr.M Subfrom - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4275513014 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Edit Posted Sales Credit Memo</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Edit Posted Sales Credit Memo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 667377692 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Edit Posted Sales Invoice SubForm</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Edit Posted Sales Inv. SubForm - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1981913376 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Edit Posted Sales Invoice</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Edit Posted Sales Invoice - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1815658141 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Edit Posted Sales Shipment Subform</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Edit Posted Sales Ship.Subform - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1756250287 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Edit Posted Sales Shipment</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Edit Posted Sales Shipment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 393000829 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Edit Posted Purch. Invoice SubForm</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Edit Pstd Prch.Invoice SubForm - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 41490757 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Edit Posted Purchase Credit Memo Subform</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Edit Pstd Purch Cr.Mem Subform - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3541278870 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Edit Posted Purchase Receipt SubForm</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Edit Pstd Purch Rcpt. SubForm - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 327608972 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Edit Purchase Header</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Edit Purchase Header - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2590077405 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Edit Sales Header</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Edit Sales Header - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3350940991 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Edit Value Entries</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Edit Value Entries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 618982975 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Edit Vat Entries</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Edit Vat Entries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 916282221 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Edit VAT Entry Link</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Edit VAT Entry Link - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3919958271 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Edit Vat Registers</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Edit Vat Registers - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1702215297 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Edit Vendor Ledger Entries</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Edit Vendor Ledger Entries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 177975228 - Field 2853697946 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 337631938">
+          <source>Editable</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension UserSetupTabExt - Field Editable - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
