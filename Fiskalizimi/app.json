@@ -1,0 +1,28 @@
+{
+  "id": "d95b3152-180e-4d0c-9d5a-6143da76b8aa",
+  "name": "Fiskalizimi",
+  "publisher": "3i Solutions",
+  "version": "1.0.0.152",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "17.0.0.0",
+  "idRanges": [
+    {
+      "from": 50008,
+      "to": 50049 
+    }
+  ],
+  "showMyCode": false,
+  "runtime": "6.0",
+  "target": "OnPrem",
+  "features": ["TranslationFile"]
+  
+}
